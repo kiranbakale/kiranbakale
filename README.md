@@ -22,9 +22,8 @@
 <p align="left">
 <a href="https://twitter.com/kiranbakale18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="kiranbakale18" height="30" width="40" /></a>
   
-<a href="https://linkedin.com/in/kiran ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="kiran bakale" height="30" width="40" /></a>
-
 <a href="https://linkedin.com/in/kiran-bakale-a82711178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="kiran-bakale-a82711178" height="30" width="40" /></a>
+<a href="https://instagram.com/mr._.karan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="mr._.karan" height="30" width="40" /></a>
 
 </p>
 <p align="left"> <a href="https://twitter.com/kiranbakale18" target="blank"><img src="https://img.shields.io/twitter/follow/kiranbakale18?logo=twitter&style=for-the-badge" alt="kiranbakale18" /></a> </p>
