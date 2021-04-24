@@ -1,13 +1,9 @@
-### Hi there 👋
-
-
-
-
+### Hi im Kiran Bakale 👋
 
 - 🔭 I’m currently working on C java python
 - 🌱 I’m currently learning C 
 - 👯 I’m looking to collaborate on Any of the above-mentioned related projects
-- 🤔 I’m looking for help with Front web development
+- 🤔 I’m looking for help with Projects to work on
 - 💬 Ask me about Programming related stuff
 - 📫 How to reach me: GMail- kiranbakale9@gmail.com
 - 😄 Pronouns: He/His
