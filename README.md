@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on [Any of the above-mentioned related projects](-)
+- 👯 I’m looking to collaborate on Any of the above-mentioned related projects
 
-- 🤝 I’m looking for help with [Projects to work on](-)
+- 🤝 I’m looking for help with Projects to work on
 
 - 👨‍💻 All of my projects are available at - coming soon
 
