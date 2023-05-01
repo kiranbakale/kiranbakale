@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiran Bakale</h1>
-<h3 align="center">A Boy trying to Figure-Out Tech-Stuff!!</h3>
+<h3 align="center">DevOps Engineer</h3>
 <p><em>Computer science graduate at <a href="https://kleit.ac.in/">KLE IT</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>A coding Enthusiast</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
