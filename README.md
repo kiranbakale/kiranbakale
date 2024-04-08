@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kiran Bakale</h1>
-<h3 align="center">DevOps Engineer☁️</h3>
+# Hi 👋 I'm Kiran Bakale
+**DevOps Engineer**☁️
 <p><em>Computer science graduate at <a href="https://kleit.ac.in/">KLE IT</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>A Cloud Enthusiast</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -10,6 +10,12 @@
 [![GitHub: kiran bakale](https://img.shields.io/github/followers/kiranbakale?label=follow&style=social)](https://github.com/kiranbakale)
 [![Gmail: kiran bakale](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox)
 -->
+
+## Blogs
+- [Simplified CI/CD: GitOps with Jenkins and ArgoCD](https://awstip.com/simplified-ci-cd-gitops-with-jenkins-and-argocd-b76de1c80362)
+- [Cross Account Infra Provisioning Pipeline](https://medium.com/@kiranbakale9/cross-account-infra-provisioning-pipeline-5a4c3feef052)
+- [AWS Route53: Routing Policies Made Easy — with a practical approach](https://medium.com/@kiranbakale9/aws-route53-routing-policies-made-easy-with-a-practical-approach-795b9c113d85)
+- More blogs on [Medium](https://medium.com/@kiranbakale9)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranbakale&label=Profile%20views&color=129e00&style=plastic" alt="kiranbakale" /> </p>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
